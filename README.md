@@ -1,6 +1,12 @@
 # Samples.WebJobs.Core
 Sample project to accompany https://matt-roberts.me/azure-webjobs-in-net-core-2-with-di-and-configuration/
 
+# Notes:
+
+I threw this together using the latest dotnet core 2.1, although you can change the project back to target dotnet core 2.0 and all should work. All you need to do is edit the appsettings.json and set something sensible for the azure connection strings. Locally, mine just point to a test azure storage account:
+
+`DefaultEndpointsProtocol=https;AccountName=timetasticdevmatt;AccountKey=hidden==`
+
 # Output from local run:
 
 ```04/06/2018 15:00:21 - Foo
