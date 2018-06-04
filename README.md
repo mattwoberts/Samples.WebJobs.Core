@@ -12,5 +12,5 @@ Sample project to accompany https://matt-roberts.me/azure-webjobs-in-net-core-2-
 04/06/2018 15:00:26 - Foo
 04/06/2018 15:00:27 - Foo
 04/06/2018 15:00:28 - Foo
-04/06/2018 15:00:29 - Foo```
+04/06/2018 15:00:29 - Foo
 
