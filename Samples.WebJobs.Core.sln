@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.WebJobs.Core", "Samples.WebJobs.Core.csproj", "{CFB8AB59-79A1-44A3-B07B-C80BED9A97B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB8AB59-79A1-44A3-B07B-C80BED9A97B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB8AB59-79A1-44A3-B07B-C80BED9A97B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB8AB59-79A1-44A3-B07B-C80BED9A97B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB8AB59-79A1-44A3-B07B-C80BED9A97B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
